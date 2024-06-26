@@ -1,0 +1,17 @@
+{
+    "name": "khbou/twitter",
+    "autoload": {
+        "psr-4": {
+            "Khbou\\Twitter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Khoubeib",
+            "email": "kh.boughalmi@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.19"
+    }
+}
